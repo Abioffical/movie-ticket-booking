@@ -1,0 +1,24 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot
+backend/target/
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+
+
+# Database credentials
+backend/src/main/resources/application.properties
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
